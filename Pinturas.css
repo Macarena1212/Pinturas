@@ -1,0 +1,99 @@
+* {
+    box-sizing: content-box;
+  }
+.todo,
+html {
+    text-align: center;
+    background-color: khaki;
+    font-family: Montserrat, Raleway, Calibri, sans-serif;
+}
+h1{
+    font-size: 80px;
+    font-weight: 300;
+}
+.intro{
+    font-size: 30px;
+}
+.cuestionario{
+    display: grid;
+    width: 100%;
+    row-gap: 7em;
+    justify-content: center;
+    align-content: center;
+    padding-top: 10em;
+}
+section{
+    align-content: center;
+    list-style: none;
+    grid-auto-flow: column;
+    display: block;
+    border: solid 2px white;
+	border-radius: 15px;
+	padding: 1em 1em 15em 1em;
+    display: block;
+    margin: 10px 33em;
+    font-family: Raleway, Calibri, sans-serif;
+    font-size: large;
+    color: black;
+    font-weight: 700;
+}
+button{
+    background-color: whitesmoke;
+    font-family: Raleway, Calibri, sans-serif;
+    font-size: large;
+    margin-top: 20px;
+    border-width: 2px;
+}
+button:hover{
+background-color: chocolate;
+}
+button:visited{
+    background-color: chocolate;
+}
+.trabajo{
+    color: black;
+    background-image: url("https://www.artyfactory.com/art_appreciation/art_movements/italian-renaissance/italian-renaissance/delphic-sibyl.jpg")
+}
+.hijos{
+    background-image: url("https://www.italian-renaissance-art.com/images/RaphMea.jpg");
+}
+.hobbies{
+    color: whitesmoke;
+    background-image: url("https://i1.wp.com/metro.co.uk/wp-content/uploads/2014/08/yard-sale.png?quality=90&strip=all&zoom=1&resize=540%2C575&ssl=1");
+}
+.pan{
+    color: whitesmoke;
+    background-image: url("https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/breakfast-still-life-dutch-master.jpg");
+}
+.ej{
+    color: whitesmoke;
+    background-image: url("https://cdn2.oceansbridge.com/2017/09/11125455/Dancing-Couple-Fernando-Botero-oil-painting-1.jpg");
+}
+.delivery{
+    color: whitesmoke;
+    background-image: url("https://2.bp.blogspot.com/-NCwHIuEDnpE/V5oSIwtqV3I/AAAAAAAABFo/9hbJ-N0ikNEVM1wKBOknU7LRqMLupnwzwCLcB/s640/Vincenzo-Campi_I-mangiatori-di-ricotta%2Bzanni%2Bfood%2Bcuriosities.jpg");
+}
+.amigos{
+    color: whitesmoke;
+    background-image: url("https://i.pinimg.com/originals/b6/1e/84/b61e840483fa7d7142919e8a5be8927a.jpg");
+}
+.distancia{
+    color: whitesmoke;
+    background-image: url("https://www.italian-renaissance-art.com/images/xBotticellidetail400.jpg.pagespeed.ic.GnU2Nbunfg.jpg");
+}
+.barbijo{
+    color: black;
+    font-weight: bold;
+    background-image: url("https://www.antiquetrader.com/.image/c_fit%2Ccs_srgb%2Cq_auto:good%2Cw_620/MTcyODI4MzkzMzM3NzkyMTg2/plaguedoc1bw.png");
+}
+.resultado{
+   font-family: Montserrat, Raleway, Calibri, sans-serif;
+   font-size: xx-large; 
+   margin-bottom: 7em;
+   border-width: 4px;
+   border-style: groove;
+}
+
+
+
+    
